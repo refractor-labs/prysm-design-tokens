@@ -1,0 +1,163 @@
+{
+  chip: {
+    color: {
+      background: {
+        gray: {
+          value: '{base.color.gray.100.value}'
+        },
+        red: {
+          value: '{base.color.red.100.value}'
+        },
+        orange: {
+          value: '{base.color.orange.100.value}'
+        },
+        yellow: {
+          value: '{base.color.yellow.100.value}'
+        },
+        green: {
+          value: '{base.color.green.100.value}'
+        },
+        blue: {
+          value: '{base.color.blue.100.value}'
+        },
+        indigo: {
+          value: '{base.color.indigo.100.value}'
+        },
+        deepPurple: {
+          value: '{base.color.deepPurple.100.value}'
+        },
+        purple: {
+          value: '{base.color.purple.100.value}'
+        },
+        pink: {
+          value: '{base.color.pink.100.value}'
+        },
+      },
+      icon: {
+        gray: {
+          '@': {
+            value: '{base.color.gray.600.value}'
+          },
+          hover: {
+            value: '{base.color.black.value}'
+          },
+        },
+        red: {
+          '@': {
+            value: '{base.color.red.500.value}',
+          },
+          hover: {
+            value: '{base.color.red.600.value}'
+          },
+        },
+        orange: {
+          '@': {
+            value: '{base.color.orange.500.value}'
+          },
+          hover: {
+            value: '{base.color.orange.600.value}'
+          },
+        },
+        yellow: {
+          '@': {
+            value: '{base.color.yellow.500.value}'
+          },
+          hover: {
+            value: '{base.color.yellow.600.value}'
+          },
+        },
+        green: {
+          '@': {
+            value: '{base.color.green.500.value}'
+          },
+          hover: {
+            value: '{base.color.green.600.value}'
+          },
+        },
+        blue: {
+          '@': {
+            value: '{base.color.blue.500.value}'
+          },
+          hover: {
+            value: '{base.color.blue.600.value}'
+          },
+        },
+        indigo: {
+          '@': {
+            value: '{base.color.indigo.500.value}'
+          },
+          hover: {
+            value: '{base.color.indigo.600.value}'
+          },
+        },
+        deepPurple: {
+          '@': {
+            value: '{base.color.deepPurple.500.value}'
+          },
+          hover: {
+            value: '{base.color.deepPurple.600.value}'
+          },
+        },
+        purple: {
+          '@': {
+            value: '{base.color.purple.500.value}'
+          },
+          hover: {
+            value: '{base.color.purple.600.value}'
+          },
+        },
+        pink: {
+          '@': {
+            value: '{base.color.pink.500.value}'
+          },
+          hover: {
+            value: '{base.color.pink.600.value}'
+          },
+        },
+      },
+      line: {
+        gray: { value: '{base.color.gray.200.value}' },
+        red: { value: '{base.color.red.200.value}' },
+        orange: { value: '{base.color.orange.200.value}' },
+        yellow: { value: '{base.color.yellow.200.value}' },
+        green: { value: '{base.color.green.200.value}' },
+        blue: { value: '{base.color.blue.200.value}' },
+        indigo: { value: '{base.color.indigo.200.value}' },
+        deepPurple: { value: '{base.color.deepPurple.200.value}' },
+        purple: { value: '{base.color.purple.200.value}' },
+        pink: { value: '{base.color.pink.200.value}' },
+      },
+      text: {
+        gray: {
+          value: '{base.color.gray.600.value}' },
+        red: {
+          value: '{base.color.red.600.value}'
+        },
+        orange: {
+          value: '{base.color.orange.600.value}'
+        },
+        yellow: {
+          value: '{base.color.yellow.600.value}'
+        },
+        green: {
+          value: '{base.color.green.600.value}'
+        },
+        blue: {
+          value: '{base.color.blue.600.value}'
+        },
+        indigo: {
+          value: '{base.color.indigo.600.value}'
+        },
+        deepPurple: {
+          value: '{base.color.deepPurple.600.value}'
+        },
+        purple: {
+          value: '{base.color.purple.600.value}'
+        },
+        pink: {
+          value: '{base.color.pink.600.value}'
+        },
+      },
+    },
+  }
+}

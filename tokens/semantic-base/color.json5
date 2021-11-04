@@ -1,0 +1,35 @@
+/* semanticBase/color.json5
+ * Usage: When a component specific color file does not exist, use these as semantic default values
+ * The purpose of this is to ensure compliance with dark mode values.
+ */
+{
+  semanticBase: {
+    color: {
+      background: {
+
+      },
+      icon: {
+
+      },
+      line: {
+
+      },
+      text: {
+        default: {
+          '@': {
+            value: '{base.color.gray.600.value}'
+          },
+          focus: {
+            value: '{base.color.black.value}'
+          },
+          muted: {
+            value: '{base.color.gray.300.value}'
+          },
+          inverted: {
+            value: '{base.color.white.value}'
+          },
+        }
+      },
+    }
+  }
+}
