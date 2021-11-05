@@ -1,0 +1,12 @@
+{
+  modal: {
+    overlay: {
+      color: {
+        background: {
+          value: '{base.color.gray.600.value}',
+          alpha: '0.5'
+        }
+      }
+    }
+  }
+}

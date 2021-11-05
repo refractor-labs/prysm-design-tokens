@@ -1,0 +1,59 @@
+{
+  ButtonMultiSelect: {
+    color: {
+      selected: {
+        background: {
+          value: '{base.color.deepPurple.100.value}'
+        },
+        line: {
+          '@': {
+            value: '{base.color.deepPurple.200.value}'
+          },
+          hover: {
+            value: '{base.color.deepPurple.400.value}'
+          }
+        },
+        text: {
+          value: '{base.color.deepPurple.600.value}'
+        }
+      },
+      unselected: {
+        background: {
+          '@': {
+            value: '{base.color.white.value}'
+          },
+          hover: {
+            value: '{base.color.gray.050.value}'
+          }
+        },
+        line: {
+          '@': {
+            value: '{base.color.gray.200.value}'
+          },
+          hover: {
+            value: '{base.color.gray.400.value}'
+          },
+          pressed: {
+            value: '{base.color.black.value}'
+          }
+        },
+        text: {
+          hover: {
+            value: '{base.color.black.value}'
+          },
+        }
+      },
+      disabled: {
+        background: {
+          value: '{base.color.gray.100.value}'
+        },
+        line: {
+          value: '{base.color.gray.300.value}'
+        },
+        text: {
+          value: '{base.color.gray.300.value}'
+        }
+      }
+    }
+  }
+}

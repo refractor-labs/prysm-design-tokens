@@ -1,0 +1,35 @@
+{
+  ButtonFill: {
+    color: {
+      background: {
+        primary: {
+          '@': {
+            value: '{base.color.black.value}'
+          },
+          hover: {
+            value: '{base.color.gray.800.value}'
+          }
+        },
+        disabled: {
+          value: '{base.color.gray.100.value}'
+        }
+      },
+      icon: {
+        primary: {
+          value: '{base.color.white.value}'
+        },
+        disabled: {
+          value: '{base.color.gray.300.value}'
+        }
+      },
+      text: {
+        primary: {
+          value: '{base.color.white.value}'
+        },
+        disabled: {
+          value: '{base.color.gray.300.value}'
+        }
+      },
+    }
+  },
+}

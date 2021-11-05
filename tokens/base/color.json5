@@ -1,3 +1,7 @@
+/* base/color.json5
+ * Usage: Absolute color values in the application. These should only be referenced by other semantic
+ * coloe files.
+ */
 {
   base: {
     color: {

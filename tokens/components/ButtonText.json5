@@ -1,0 +1,45 @@
+{
+  ButtonText: {
+    color: {
+      background: {
+        primary:{
+          hover: {
+            value: '{base.color.gray.050.value}'
+          }
+        },
+        alert:{
+          hover: {
+            value: '{base.color.red.100.value}'
+          }
+        }
+      },
+      icon: {
+        primary: {
+          '@': {
+            value: '{base.color.gray.600.value}'
+          },
+          hover: {
+            value: '{base.color.black.value}'
+          }
+        },
+        alert: {
+          value: '{base.color.red.500.value}'
+        },
+        disabled: {
+          value: '{base.color.gray.300.value}'
+        },
+      },
+      text: {
+        primary: {
+          value: '{base.color.black.value}'
+        },
+        alert: {
+          value: '{base.color.red.600.value}'
+        },
+        disabled: {
+          value: '{base.color.gray.300.value}'
+        },
+      },
+    }
+  }
+}
