@@ -1,0 +1,79 @@
+{
+  FormField: {
+    color: {
+      background: {
+        '@': {
+          value: '{base.color.white.value}'
+        },
+        hover: {
+          value: '{base.color.gray.050.value}'
+        },
+        disabled: {
+          value: '{base.color.gray.100.value}'
+        }
+      },
+      text: {
+        content: {
+          value: '{base.color.black.value}'
+        },
+        placeholder: {
+          value: '{base.color.gray.600.value}'
+        },
+        currency: {
+          value: '{base.color.gray.600.value}'
+        },
+        disabled: {
+          value: '{base.color.gray.300.value}'
+        }
+      },
+      icon: {
+        default: {
+          value: '{base.color.gray.600.value}'
+        },
+        dropdown: {
+          '@': {
+            value: '{base.color.gray.600.value}'
+          },
+          hover: {
+            value: '{base.color.black.value}'
+          }
+        },
+        clear: {
+          '@': {
+            value: '{base.color.gray.600.value}'
+          },
+          hover: {
+            value: '{base.color.black.value}'
+          }
+        },
+        disabled: {
+          value: '{base.color.gray.300.value}'
+        }
+      },
+      line: {
+        primary: {
+          '@': {
+            value: '{base.color.gray.200.value}'
+          },
+          hover: {
+            value: '{base.color.gray.400.value}'
+          },
+          pressed: {
+            value: '{base.color.black.value}'
+          }
+        },
+        alert: {
+          '@': {
+            value: '{base.color.red.500.value}'
+          },
+          hover: {
+            value: '{base.color.red.600.value}'
+          }
+        },
+        disabled: {
+          value: '{base.color.gray.300.value}'
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  Checkbox: {
+    color: {
+      text: {
+        '@': {
+          value: '{base.color.black.value}'
+        },
+        disabled: {
+          value: '{base.color.gray.300.value}'
+        }
+      }
+    },
+    icon: {
+      color: {
+        empty: {
+          background: {
+            value: '{base.color.white.value}'
+          },
+          line: {
+            '@': {
+              value: '{base.color.gray.600.value}'
+            },
+            hover: {
+              value: '{base.color.black.value}'
+            }
+          }
+        },
+        selected: {
+          background: {
+            '@': {
+              value: '{base.color.black.value}'
+            },
+            hover: {
+              value: '{base.color.gray.800.value}'
+            }
+          },
+          icon: {
+            value: '{base.color.white.value}'
+          },
+          line: {
+            '@': {
+              value: '{base.color.black.value}'
+            },
+            hover: {
+              value: '{base.color.gray.800.value}'
+            }
+          }
+        }
+      },
+      background: {
+        disabled: {
+          value: '{base.color.gray.300.value}'
+        }
+      },
+      icon: {
+        disabled: {
+          value: '{base.color.gray.300.value}'
+        }
+      }
+    }
+  }
+}

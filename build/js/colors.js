@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 05 Nov 2021 19:57:27 GMT
+ * Generated on Fri, 05 Nov 2021 20:25:59 GMT
  */
 
 export const BaseColorWhite = "#FFFFFF";
@@ -141,6 +141,18 @@ export const ButtonTextColorIconDisabled = "#CCCAD9";
 export const ButtonTextColorTextPrimary = "#040305";
 export const ButtonTextColorTextAlert = "#BB4227";
 export const ButtonTextColorTextDisabled = "#CCCAD9";
+export const CheckboxColorText = "#040305";
+export const CheckboxColorTextDisabled = "#CCCAD9";
+export const CheckboxIconColorEmptyBackground = "#FFFFFF";
+export const CheckboxIconColorEmptyLine = "#6D6982";
+export const CheckboxIconColorEmptyLineHover = "#040305";
+export const CheckboxIconColorSelectedBackground = "#040305";
+export const CheckboxIconColorSelectedBackgroundHover = "#353341";
+export const CheckboxIconColorSelectedIcon = "#FFFFFF";
+export const CheckboxIconColorSelectedLine = "#040305";
+export const CheckboxIconColorSelectedLineHover = "#353341";
+export const CheckboxIconBackgroundDisabled = "#CCCAD9";
+export const CheckboxIconIconDisabled = "#CCCAD9";
 export const ChipColorBackgroundGray = "#F4F3F8";
 export const ChipColorBackgroundRed = "#FDF0EF";
 export const ChipColorBackgroundOrange = "#FDF0EB";
@@ -191,6 +203,39 @@ export const ChipColorTextIndigo = "#545BDE";
 export const ChipColorTextDeepPurple = "#764EDD";
 export const ChipColorTextPurple = "#9D3BCC";
 export const ChipColorTextPink = "#B33E7E";
+export const ContentKeyValueLabelColorText = "#6D6982";
+export const ContentKeyValueLabelColorIcon = "#6D6982";
+export const ContentKeyValueLabelColorIconHover = "#040305";
+export const ContentKeyValueContentColorTextPrimary = "#040305";
+export const ContentKeyValueContentColorTextSubtext = "#6D6982";
+export const ContentKeyValueContentColorTextPctNeutral = "#6D6982";
+export const ContentKeyValueContentColorTextPctGain = "#1D7A45";
+export const ContentKeyValueContentColorTextPctLoss = "#BB4227";
+export const ContentTokenNameColorTextTicker = "#6D6982";
+export const ContentUsernameColorLineAvatar = "#FFFFFF";
+export const ContentUsernameColorTextDomain = "#6D6982";
+export const ContentUsernameColorTextBiography = "#6D6982";
+export const DropdownColorMenuBackground = "#FFFFFF";
+export const DropdownColorItemContainerBackgroundHover = "#F4F3F8";
+export const FormFieldColorBackground = "#FFFFFF";
+export const FormFieldColorBackgroundHover = "#FAF9FD";
+export const FormFieldColorBackgroundDisabled = "#F4F3F8";
+export const FormFieldColorTextContent = "#040305";
+export const FormFieldColorTextPlaceholder = "#6D6982";
+export const FormFieldColorTextCurrency = "#6D6982";
+export const FormFieldColorTextDisabled = "#CCCAD9";
+export const FormFieldColorIconDefault = "#6D6982";
+export const FormFieldColorIconDropdown = "#6D6982";
+export const FormFieldColorIconDropdownHover = "#040305";
+export const FormFieldColorIconClear = "#6D6982";
+export const FormFieldColorIconClearHover = "#040305";
+export const FormFieldColorIconDisabled = "#CCCAD9";
+export const FormFieldColorLinePrimary = "#DCDCE8";
+export const FormFieldColorLinePrimaryHover = "#ABA7BB";
+export const FormFieldColorLinePrimaryPressed = "#040305";
+export const FormFieldColorLineAlert = "#EA5633";
+export const FormFieldColorLineAlertHover = "#BB4227";
+export const FormFieldColorLineDisabled = "#CCCAD9";
 export const LinkAnchorColorTextPrimary = "#040305";
 export const LinkAnchorColorTextPrimaryHover = "#040305";
 export const LinkAnchorColorTextSecondary = "#6D6982";

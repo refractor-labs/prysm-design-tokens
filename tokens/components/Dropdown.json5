@@ -1,0 +1,20 @@
+{
+  Dropdown: {
+    color: {
+      menu: {
+        background: {
+          value: '{base.color.white.value}'
+        }
+      },
+      item: {
+        container: {
+          background: {
+            hover: {
+              value: '{base.color.gray.100.value}'
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 05 Nov 2021 19:57:27 GMT
+ * Generated on Fri, 05 Nov 2021 20:25:59 GMT
  */
 
 :root {
@@ -142,6 +142,18 @@
   --button-text-color-text-primary: #040305;
   --button-text-color-text-alert: #BB4227;
   --button-text-color-text-disabled: #CCCAD9;
+  --checkbox-color-text: #040305;
+  --checkbox-color-text-disabled: #CCCAD9;
+  --checkbox-icon-color-empty-background: #FFFFFF;
+  --checkbox-icon-color-empty-line: #6D6982;
+  --checkbox-icon-color-empty-line-hover: #040305;
+  --checkbox-icon-color-selected-background: #040305;
+  --checkbox-icon-color-selected-background-hover: #353341;
+  --checkbox-icon-color-selected-icon: #FFFFFF;
+  --checkbox-icon-color-selected-line: #040305;
+  --checkbox-icon-color-selected-line-hover: #353341;
+  --checkbox-icon-background-disabled: #CCCAD9;
+  --checkbox-icon-icon-disabled: #CCCAD9;
   --chip-color-background-gray: #F4F3F8;
   --chip-color-background-red: #FDF0EF;
   --chip-color-background-orange: #FDF0EB;
@@ -192,6 +204,39 @@
   --chip-color-text-deep-purple: #764EDD;
   --chip-color-text-purple: #9D3BCC;
   --chip-color-text-pink: #B33E7E;
+  --content-key-value-label-color-text: #6D6982;
+  --content-key-value-label-color-icon: #6D6982;
+  --content-key-value-label-color-icon-hover: #040305;
+  --content-key-value-content-color-text-primary: #040305;
+  --content-key-value-content-color-text-subtext: #6D6982;
+  --content-key-value-content-color-text-pct-neutral: #6D6982;
+  --content-key-value-content-color-text-pct-gain: #1D7A45;
+  --content-key-value-content-color-text-pct-loss: #BB4227;
+  --content-token-name-color-text-ticker: #6D6982;
+  --content-username-color-line-avatar: #FFFFFF;
+  --content-username-color-text-domain: #6D6982;
+  --content-username-color-text-biography: #6D6982;
+  --dropdown-color-menu-background: #FFFFFF;
+  --dropdown-color-item-container-background-hover: #F4F3F8;
+  --form-field-color-background: #FFFFFF;
+  --form-field-color-background-hover: #FAF9FD;
+  --form-field-color-background-disabled: #F4F3F8;
+  --form-field-color-text-content: #040305;
+  --form-field-color-text-placeholder: #6D6982;
+  --form-field-color-text-currency: #6D6982;
+  --form-field-color-text-disabled: #CCCAD9;
+  --form-field-color-icon-default: #6D6982;
+  --form-field-color-icon-dropdown: #6D6982;
+  --form-field-color-icon-dropdown-hover: #040305;
+  --form-field-color-icon-clear: #6D6982;
+  --form-field-color-icon-clear-hover: #040305;
+  --form-field-color-icon-disabled: #CCCAD9;
+  --form-field-color-line-primary: #DCDCE8;
+  --form-field-color-line-primary-hover: #ABA7BB;
+  --form-field-color-line-primary-pressed: #040305;
+  --form-field-color-line-alert: #EA5633;
+  --form-field-color-line-alert-hover: #BB4227;
+  --form-field-color-line-disabled: #CCCAD9;
   --link-anchor-color-text-primary: #040305;
   --link-anchor-color-text-primary-hover: #040305;
   --link-anchor-color-text-secondary: #6D6982;

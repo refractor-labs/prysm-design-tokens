@@ -1,0 +1,40 @@
+{
+  ContentKeyValue: {
+    label: {
+      color: {
+        text: {
+          value: '{base.color.gray.600.value}'
+        },
+        icon: {
+          '@': {
+            value: '{base.color.gray.600.value}'
+          },
+          hover: {
+            value: '{base.color.black.value}'
+          }
+        }
+      }
+    },
+    content: {
+      color: {
+        text: {
+          primary: {
+            value: '{base.color.black.value}'
+          },
+          subtext: {
+            value: '{base.color.gray.600.value}'
+          },
+          pctNeutral: {
+            value: '{base.color.gray.600.value}'
+          },
+          pctGain: {
+            value: '{base.color.green.600.value}'
+          },
+          pctLoss: {
+            value: '{base.color.red.600.value}'
+          }
+        }
+      }
+    }
+  }
+}

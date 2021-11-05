@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 05 Nov 2021 19:57:27 GMT
+ * Generated on Fri, 05 Nov 2021 20:25:59 GMT
  */
 
 export const BaseColorWhite : string;
@@ -141,6 +141,18 @@ export const ButtonTextColorIconDisabled : string;
 export const ButtonTextColorTextPrimary : string;
 export const ButtonTextColorTextAlert : string;
 export const ButtonTextColorTextDisabled : string;
+export const CheckboxColorText : string;
+export const CheckboxColorTextDisabled : string;
+export const CheckboxIconColorEmptyBackground : string;
+export const CheckboxIconColorEmptyLine : string;
+export const CheckboxIconColorEmptyLineHover : string;
+export const CheckboxIconColorSelectedBackground : string;
+export const CheckboxIconColorSelectedBackgroundHover : string;
+export const CheckboxIconColorSelectedIcon : string;
+export const CheckboxIconColorSelectedLine : string;
+export const CheckboxIconColorSelectedLineHover : string;
+export const CheckboxIconBackgroundDisabled : string;
+export const CheckboxIconIconDisabled : string;
 export const ChipColorBackgroundGray : string;
 export const ChipColorBackgroundRed : string;
 export const ChipColorBackgroundOrange : string;
@@ -191,6 +203,39 @@ export const ChipColorTextIndigo : string;
 export const ChipColorTextDeepPurple : string;
 export const ChipColorTextPurple : string;
 export const ChipColorTextPink : string;
+export const ContentKeyValueLabelColorText : string;
+export const ContentKeyValueLabelColorIcon : string;
+export const ContentKeyValueLabelColorIconHover : string;
+export const ContentKeyValueContentColorTextPrimary : string;
+export const ContentKeyValueContentColorTextSubtext : string;
+export const ContentKeyValueContentColorTextPctNeutral : string;
+export const ContentKeyValueContentColorTextPctGain : string;
+export const ContentKeyValueContentColorTextPctLoss : string;
+export const ContentTokenNameColorTextTicker : string;
+export const ContentUsernameColorLineAvatar : string;
+export const ContentUsernameColorTextDomain : string;
+export const ContentUsernameColorTextBiography : string;
+export const DropdownColorMenuBackground : string;
+export const DropdownColorItemContainerBackgroundHover : string;
+export const FormFieldColorBackground : string;
+export const FormFieldColorBackgroundHover : string;
+export const FormFieldColorBackgroundDisabled : string;
+export const FormFieldColorTextContent : string;
+export const FormFieldColorTextPlaceholder : string;
+export const FormFieldColorTextCurrency : string;
+export const FormFieldColorTextDisabled : string;
+export const FormFieldColorIconDefault : string;
+export const FormFieldColorIconDropdown : string;
+export const FormFieldColorIconDropdownHover : string;
+export const FormFieldColorIconClear : string;
+export const FormFieldColorIconClearHover : string;
+export const FormFieldColorIconDisabled : string;
+export const FormFieldColorLinePrimary : string;
+export const FormFieldColorLinePrimaryHover : string;
+export const FormFieldColorLinePrimaryPressed : string;
+export const FormFieldColorLineAlert : string;
+export const FormFieldColorLineAlertHover : string;
+export const FormFieldColorLineDisabled : string;
 export const LinkAnchorColorTextPrimary : string;
 export const LinkAnchorColorTextPrimaryHover : string;
 export const LinkAnchorColorTextSecondary : string;

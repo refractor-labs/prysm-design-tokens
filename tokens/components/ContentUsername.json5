@@ -1,0 +1,19 @@
+{
+  ContentUsername: {
+    color: {
+      line: {
+        avatar: {
+          value: '{base.color.white.value}'
+        }
+      },
+      text: {
+        domain: {
+          value: '{base.color.gray.600.value}'
+        },
+        biography: {
+          value: '{base.color.gray.600.value}'
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  ContentTokenName: {
+    color: {
+      text: {
+        ticker: {
+          value: '{base.color.gray.600.value}'
+        }
+      }
+    }
+  }
+}
