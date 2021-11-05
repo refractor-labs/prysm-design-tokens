@@ -1,0 +1,50 @@
+{
+  Stepper: {
+    color: {
+      background: {
+        step: {
+          past: {
+            value: '{base.color.gray.600.value}'
+          },
+          current: {
+            value: '{base.color.black.value}'
+          }
+        }
+      },
+      line: {
+        seperator: {
+          value: '{base.color.gray.600.value}'
+        },
+        step: {
+          future: {
+            value: '{base.color.gray.600.value}'
+          }
+        }
+      },
+      text: {
+        label: {
+          past: {
+            value: '{base.color.gray.600.value}'
+          },
+          current: {
+            value: '{base.color.black.value}'
+          },
+          future: {
+            value: '{base.color.gray.600.value}'
+          }
+        },
+        step: {
+          past: {
+            value: '{base.color.white.value}'
+          },
+          current: {
+            value: '{base.color.white.value}'
+          },
+          future: {
+            value: '{base.color.gray.600.value}'
+          }
+        }
+      }
+    }
+  }
+}

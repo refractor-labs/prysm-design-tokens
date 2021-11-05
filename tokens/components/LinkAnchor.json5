@@ -1,0 +1,33 @@
+{
+  LinkAnchor: {
+    color: {
+      text: {
+        primary: {
+          '@': {
+            value: '{base.color.black.value}'
+          },
+          hover: {
+            value: '{base.color.black.value}'
+          }
+        },
+        secondary: {
+          value: '{base.color.gray.600.value}'
+        },
+        tertiary: {
+          value: '{base.color.gray.600.value}'
+        },
+        alert: {
+          '@': {
+            value: '{base.color.red.600.value}'
+          },
+          hover: {
+            value: '{base.color.red.700.value}'
+          }
+        },
+        disabled: {
+          value: '{base.color.gray.300.value}'
+        }
+      }
+    }
+  }
+}

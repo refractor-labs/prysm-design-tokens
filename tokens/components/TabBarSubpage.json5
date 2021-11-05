@@ -1,0 +1,22 @@
+{
+  TabBarSubpage: {
+    color: {
+      line: {
+        value: '{base.color.black.value}'
+      },
+      text: {
+        active: {
+          value: '{base.color.black.value}'
+        },
+        inactive: {
+          '@': {
+            value: '{base.color.gray.600.value}'
+          },
+          hover: {
+            value: '{base.color.black.value}'
+          }
+        }
+      }
+    }
+  }
+}

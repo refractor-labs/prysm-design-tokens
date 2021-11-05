@@ -1,0 +1,25 @@
+{
+  Pagination: {
+    color: {
+      text: {
+        range: {
+          value: '{base.color.gray.600.value}'
+        },
+        active: {
+          value: '{base.color.black.value}'
+        },
+        inactive: {
+          '@': {
+            value: '{base.color.gray.600.value}'
+          },
+          hover: {
+            value: '{base.color.black.value}'
+          }
+        }
+      },
+      icon: {
+        value: '{base.color.gray.600.value}'
+      }
+    }
+  }
+}

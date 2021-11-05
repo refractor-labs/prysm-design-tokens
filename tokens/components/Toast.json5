@@ -1,0 +1,23 @@
+{
+  Toast: {
+    color: {
+      background: {
+        value: '{base.color.white.value}'
+      },
+      icon: {
+        success: {
+          value: '{base.color.green.500.value}'
+        },
+        failure: {
+          value: '{base.color.red.500.value}'
+        },
+        alert: {
+          value: '{base.color.yellow.500.value}'
+        },
+      },
+      text: {
+        value: '{base.color.black.value}'
+      }
+    }
+  }
+}

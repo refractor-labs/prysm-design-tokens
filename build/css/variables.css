@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 05 Nov 2021 18:23:16 GMT
+ * Generated on Fri, 05 Nov 2021 19:57:27 GMT
  */
 
 :root {
@@ -192,7 +192,69 @@
   --chip-color-text-deep-purple: #764EDD;
   --chip-color-text-purple: #9D3BCC;
   --chip-color-text-pink: #B33E7E;
+  --link-anchor-color-text-primary: #040305;
+  --link-anchor-color-text-primary-hover: #040305;
+  --link-anchor-color-text-secondary: #6D6982;
+  --link-anchor-color-text-tertiary: #6D6982;
+  --link-anchor-color-text-alert: #BB4227;
+  --link-anchor-color-text-alert-hover: #892F19;
+  --link-anchor-color-text-disabled: #CCCAD9;
   --modal-overlay-color-background: #6D6982;
+  --pagination-color-text-range: #6D6982;
+  --pagination-color-text-active: #040305;
+  --pagination-color-text-inactive: #6D6982;
+  --pagination-color-text-inactive-hover: #040305;
+  --pagination-color-icon: #6D6982;
+  --radio-color-icon-empty: #6D6982;
+  --radio-color-icon-empty-hover: #040305;
+  --radio-color-icon-selected: #040305;
+  --radio-color-icon-disabled: #CCCAD9;
+  --radio-color-text: #040305;
+  --radio-color-text-disabled: #CCCAD9;
+  --snackbar-color-background: #FFFFFF;
+  --snackbar-color-icon-success: #3B985F;
+  --snackbar-color-icon-failure: #EA5633;
+  --snackbar-color-icon-alert: #93893A;
+  --snackbar-color-text: #040305;
+  --stepper-color-background-step-past: #6D6982;
+  --stepper-color-background-step-current: #040305;
+  --stepper-color-line-seperator: #6D6982;
+  --stepper-color-line-step-future: #6D6982;
+  --stepper-color-text-label-past: #6D6982;
+  --stepper-color-text-label-current: #040305;
+  --stepper-color-text-label-future: #6D6982;
+  --stepper-color-text-step-past: #FFFFFF;
+  --stepper-color-text-step-current: #FFFFFF;
+  --stepper-color-text-step-future: #6D6982;
+  --switch-track-color-background-on: #040305;
+  --switch-track-color-background-on-disabled: #ABA7BB;
+  --switch-track-color-background-off: #DCDCE8;
+  --switch-track-color-background-off-disabled: #F4F3F8;
+  --switch-toggle-color-background: #FFFFFF;
+  --switch-toggle-color-background-disabled: #F4F3F8;
+  --tab-bar-navigation-color-background: #040305;
+  --tab-bar-navigation-color-background-hover: #FAF9FD;
+  --tab-bar-navigation-color-text-active: #040305;
+  --tab-bar-navigation-color-text-inactive: #6D6982;
+  --tab-bar-navigation-color-text-inactive-hover: #040305;
+  --tab-bar-navigation-color-icon-active: #040305;
+  --tab-bar-navigation-color-icon-inactive: #6D6982;
+  --tab-bar-navigation-color-icon-inactive-hover: #040305;
+  --tab-bar-subpage-color-line: #040305;
+  --tab-bar-subpage-color-text-active: #040305;
+  --tab-bar-subpage-color-text-inactive: #6D6982;
+  --tab-bar-subpage-color-text-inactive-hover: #040305;
+  --tab-timeframe-color-background-active: #040305;
+  --tab-timeframe-color-text-active: #FFFFFF;
+  --tab-timeframe-color-text-inactive: #6D6982;
+  --tab-timeframe-color-text-inactive-hover: #040305;
+  --toast-color-background: #FFFFFF;
+  --toast-color-icon-success: #3B985F;
+  --toast-color-icon-failure: #EA5633;
+  --toast-color-icon-alert: #93893A;
+  --toast-color-text: #040305;
+  --tooltip-color-background: #040305;
+  --tooltip-color-text: #FFFFFF;
   --semantic-base-color-background-default-primary: #FFFFFF;
   --semantic-base-color-background-default-secondary: #FAF9FD;
   --semantic-base-color-background-default-disabled: #F4F3F8;

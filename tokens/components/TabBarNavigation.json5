@@ -1,0 +1,40 @@
+{
+  TabBarNavigation: {
+    color: {
+      background: {
+        '@': {
+          value: '{base.color.black.value}'
+        },
+        hover: {
+          value: '{base.color.gray.050.value}'
+        }
+      },
+      text: {
+        active: {
+          value: '{base.color.black.value}'
+        },
+        inactive: {
+          '@': {
+            value: '{base.color.gray.600.value}'
+          },
+          hover: {
+            value: '{base.color.black.value}'
+          }
+        },
+      },
+      icon: {
+        active: {
+          value: '{base.color.black.value}'
+        },
+        inactive: {
+          '@': {
+            value: '{base.color.gray.600.value}'
+          },
+          hover: {
+            value: '{base.color.black.value}'
+          }
+        },
+      }
+    }
+  }
+}

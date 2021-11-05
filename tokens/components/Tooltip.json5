@@ -1,0 +1,12 @@
+{
+  Tooltip: {
+    color: {
+      background: {
+        value: '{base.color.black.value}'
+      },
+      text: {
+        value: '{base.color.white.value}'
+      }
+    }
+  }
+}

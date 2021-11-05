@@ -1,0 +1,38 @@
+{
+  switch: {
+    track: {
+      color: {
+        background: {
+          on: {
+            '@': {
+              value: '{base.color.black.value}'
+            },
+            disabled: {
+              value: '{base.color.gray.400.value}'
+            }
+          },
+          off: {
+            '@': {
+              value: '{base.color.gray.200.value}'
+            },
+            disabled: {
+              value: '{base.color.gray.100.value}'
+            }
+          }
+        }
+      }
+    },
+    toggle: {
+      color: {
+        background: {
+          '@': {
+            value: '{base.color.white.value}'
+          },
+          disabled: {
+            value: '{base.color.gray.100.value}'
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  Radio: {
+    color: {
+      icon: {
+        empty: {
+          '@': {
+            value: '{base.color.gray.600.value}'
+          },
+          hover: {
+            value: '{base.color.black.value}'
+          }
+        },
+        selected: {
+          value: '{base.color.black.value}'
+        },
+        disabled: {
+          value: '{base.color.gray.300.value}'
+        }
+      },
+      text: {
+        '@': {
+          value: '{base.color.black.value}'
+        },
+        disabled: {
+          value: '{base.color.gray.300.value}'
+        }
+      }
+    }
+  }
+}

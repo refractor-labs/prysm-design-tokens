@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 05 Nov 2021 18:23:16 GMT
+ * Generated on Fri, 05 Nov 2021 19:57:27 GMT
  */
 
 export const BaseColorWhite : string;
@@ -191,7 +191,69 @@ export const ChipColorTextIndigo : string;
 export const ChipColorTextDeepPurple : string;
 export const ChipColorTextPurple : string;
 export const ChipColorTextPink : string;
+export const LinkAnchorColorTextPrimary : string;
+export const LinkAnchorColorTextPrimaryHover : string;
+export const LinkAnchorColorTextSecondary : string;
+export const LinkAnchorColorTextTertiary : string;
+export const LinkAnchorColorTextAlert : string;
+export const LinkAnchorColorTextAlertHover : string;
+export const LinkAnchorColorTextDisabled : string;
 export const ModalOverlayColorBackground : string;
+export const PaginationColorTextRange : string;
+export const PaginationColorTextActive : string;
+export const PaginationColorTextInactive : string;
+export const PaginationColorTextInactiveHover : string;
+export const PaginationColorIcon : string;
+export const RadioColorIconEmpty : string;
+export const RadioColorIconEmptyHover : string;
+export const RadioColorIconSelected : string;
+export const RadioColorIconDisabled : string;
+export const RadioColorText : string;
+export const RadioColorTextDisabled : string;
+export const SnackbarColorBackground : string;
+export const SnackbarColorIconSuccess : string;
+export const SnackbarColorIconFailure : string;
+export const SnackbarColorIconAlert : string;
+export const SnackbarColorText : string;
+export const StepperColorBackgroundStepPast : string;
+export const StepperColorBackgroundStepCurrent : string;
+export const StepperColorLineSeperator : string;
+export const StepperColorLineStepFuture : string;
+export const StepperColorTextLabelPast : string;
+export const StepperColorTextLabelCurrent : string;
+export const StepperColorTextLabelFuture : string;
+export const StepperColorTextStepPast : string;
+export const StepperColorTextStepCurrent : string;
+export const StepperColorTextStepFuture : string;
+export const SwitchTrackColorBackgroundOn : string;
+export const SwitchTrackColorBackgroundOnDisabled : string;
+export const SwitchTrackColorBackgroundOff : string;
+export const SwitchTrackColorBackgroundOffDisabled : string;
+export const SwitchToggleColorBackground : string;
+export const SwitchToggleColorBackgroundDisabled : string;
+export const TabBarNavigationColorBackground : string;
+export const TabBarNavigationColorBackgroundHover : string;
+export const TabBarNavigationColorTextActive : string;
+export const TabBarNavigationColorTextInactive : string;
+export const TabBarNavigationColorTextInactiveHover : string;
+export const TabBarNavigationColorIconActive : string;
+export const TabBarNavigationColorIconInactive : string;
+export const TabBarNavigationColorIconInactiveHover : string;
+export const TabBarSubpageColorLine : string;
+export const TabBarSubpageColorTextActive : string;
+export const TabBarSubpageColorTextInactive : string;
+export const TabBarSubpageColorTextInactiveHover : string;
+export const TabTimeframeColorBackgroundActive : string;
+export const TabTimeframeColorTextActive : string;
+export const TabTimeframeColorTextInactive : string;
+export const TabTimeframeColorTextInactiveHover : string;
+export const ToastColorBackground : string;
+export const ToastColorIconSuccess : string;
+export const ToastColorIconFailure : string;
+export const ToastColorIconAlert : string;
+export const ToastColorText : string;
+export const TooltipColorBackground : string;
+export const TooltipColorText : string;
 export const SemanticBaseColorBackgroundDefaultPrimary : string;
 export const SemanticBaseColorBackgroundDefaultSecondary : string;
 export const SemanticBaseColorBackgroundDefaultDisabled : string;

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 05 Nov 2021 18:23:16 GMT
+ * Generated on Fri, 05 Nov 2021 19:57:27 GMT
  */
 
 export const BaseColorWhite = "#FFFFFF";
@@ -191,7 +191,69 @@ export const ChipColorTextIndigo = "#545BDE";
 export const ChipColorTextDeepPurple = "#764EDD";
 export const ChipColorTextPurple = "#9D3BCC";
 export const ChipColorTextPink = "#B33E7E";
+export const LinkAnchorColorTextPrimary = "#040305";
+export const LinkAnchorColorTextPrimaryHover = "#040305";
+export const LinkAnchorColorTextSecondary = "#6D6982";
+export const LinkAnchorColorTextTertiary = "#6D6982";
+export const LinkAnchorColorTextAlert = "#BB4227";
+export const LinkAnchorColorTextAlertHover = "#892F19";
+export const LinkAnchorColorTextDisabled = "#CCCAD9";
 export const ModalOverlayColorBackground = "#6D6982";
+export const PaginationColorTextRange = "#6D6982";
+export const PaginationColorTextActive = "#040305";
+export const PaginationColorTextInactive = "#6D6982";
+export const PaginationColorTextInactiveHover = "#040305";
+export const PaginationColorIcon = "#6D6982";
+export const RadioColorIconEmpty = "#6D6982";
+export const RadioColorIconEmptyHover = "#040305";
+export const RadioColorIconSelected = "#040305";
+export const RadioColorIconDisabled = "#CCCAD9";
+export const RadioColorText = "#040305";
+export const RadioColorTextDisabled = "#CCCAD9";
+export const SnackbarColorBackground = "#FFFFFF";
+export const SnackbarColorIconSuccess = "#3B985F";
+export const SnackbarColorIconFailure = "#EA5633";
+export const SnackbarColorIconAlert = "#93893A";
+export const SnackbarColorText = "#040305";
+export const StepperColorBackgroundStepPast = "#6D6982";
+export const StepperColorBackgroundStepCurrent = "#040305";
+export const StepperColorLineSeperator = "#6D6982";
+export const StepperColorLineStepFuture = "#6D6982";
+export const StepperColorTextLabelPast = "#6D6982";
+export const StepperColorTextLabelCurrent = "#040305";
+export const StepperColorTextLabelFuture = "#6D6982";
+export const StepperColorTextStepPast = "#FFFFFF";
+export const StepperColorTextStepCurrent = "#FFFFFF";
+export const StepperColorTextStepFuture = "#6D6982";
+export const SwitchTrackColorBackgroundOn = "#040305";
+export const SwitchTrackColorBackgroundOnDisabled = "#ABA7BB";
+export const SwitchTrackColorBackgroundOff = "#DCDCE8";
+export const SwitchTrackColorBackgroundOffDisabled = "#F4F3F8";
+export const SwitchToggleColorBackground = "#FFFFFF";
+export const SwitchToggleColorBackgroundDisabled = "#F4F3F8";
+export const TabBarNavigationColorBackground = "#040305";
+export const TabBarNavigationColorBackgroundHover = "#FAF9FD";
+export const TabBarNavigationColorTextActive = "#040305";
+export const TabBarNavigationColorTextInactive = "#6D6982";
+export const TabBarNavigationColorTextInactiveHover = "#040305";
+export const TabBarNavigationColorIconActive = "#040305";
+export const TabBarNavigationColorIconInactive = "#6D6982";
+export const TabBarNavigationColorIconInactiveHover = "#040305";
+export const TabBarSubpageColorLine = "#040305";
+export const TabBarSubpageColorTextActive = "#040305";
+export const TabBarSubpageColorTextInactive = "#6D6982";
+export const TabBarSubpageColorTextInactiveHover = "#040305";
+export const TabTimeframeColorBackgroundActive = "#040305";
+export const TabTimeframeColorTextActive = "#FFFFFF";
+export const TabTimeframeColorTextInactive = "#6D6982";
+export const TabTimeframeColorTextInactiveHover = "#040305";
+export const ToastColorBackground = "#FFFFFF";
+export const ToastColorIconSuccess = "#3B985F";
+export const ToastColorIconFailure = "#EA5633";
+export const ToastColorIconAlert = "#93893A";
+export const ToastColorText = "#040305";
+export const TooltipColorBackground = "#040305";
+export const TooltipColorText = "#FFFFFF";
 export const SemanticBaseColorBackgroundDefaultPrimary = "#FFFFFF";
 export const SemanticBaseColorBackgroundDefaultSecondary = "#FAF9FD";
 export const SemanticBaseColorBackgroundDefaultDisabled = "#F4F3F8";
